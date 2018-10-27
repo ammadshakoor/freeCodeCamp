@@ -7,6 +7,7 @@ title: Introduction to NLP
 * Use cases
 * Language Modelling
 * Further readings
+* Books
 
 ## Motivation
 It has always been our dream to make machines understand our language. Ever since Chomsky came up with Context free grammars, linguists have been wanting to come up with solutions to understand context dependent grammars. It is therefore only natural that an academic disciple had evolved around this topic.
@@ -36,3 +37,7 @@ The field of NLP is huge. If you have read this far and have implemented the abo
 * [LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Attention](https://distill.pub/2016/augmented-rnns/)
 
+## Books for NLP
+Book recommended for NLP.
+
+* [NLP with Python written by Steven Bird, Ewan Klein and Edward Loper](https://www.amazon.com/dp/0596516495?tag=inspiredalgor-20)
