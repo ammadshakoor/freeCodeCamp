@@ -59,3 +59,8 @@ data consist of a set of training examples. In supervised learning, each example
 ## Lab
 
 <a href="https://github.com/Microsoft/computerscience/blob/master/Labs/AI%20and%20Machine%20Learning/Azure%20Machine%20Learning/Azure%20Machine%20Learning%20(Node).md">Building Smart Apps with Azure Machine Learning Studio</a>
+
+## Learning PDFs and Resource Materials
+Tutorials, Courses, Case Studies, Source Code and Books.
+
+[Download all resource for free](https://drive.google.com/drive/folders/1ZeaAyrQRtrsFi4vpnYRPGS57usO2hr8P?usp=sharing)
